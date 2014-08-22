@@ -15,6 +15,7 @@
 		18A2FA5E19A6C09C0021434D /* retro_apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 18A2FA5D19A6C09C0021434D /* retro_apple.png */; };
 		18A2FA6019A6C7CD0021434D /* Contacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A2FA5F19A6C7CD0021434D /* Contacts.swift */; };
 		18A2FA6219A6E7CD0021434D /* ContactDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A2FA6119A6E7CD0021434D /* ContactDetails.swift */; };
+		18A2FA6419A764770021434D /* ContactInput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A2FA6319A764770021434D /* ContactInput.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		18A2FA5D19A6C09C0021434D /* retro_apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = retro_apple.png; sourceTree = "<group>"; };
 		18A2FA5F19A6C7CD0021434D /* Contacts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contacts.swift; sourceTree = "<group>"; };
 		18A2FA6119A6E7CD0021434D /* ContactDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactDetails.swift; sourceTree = "<group>"; };
+		18A2FA6319A764770021434D /* ContactInput.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactInput.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				18A2FA4019A6B7910021434D /* AppDelegate.swift */,
 				18A2FA4219A6B7910021434D /* ViewController.swift */,
 				18A2FA4419A6B7910021434D /* Main.storyboard */,
+				18A2FA6319A764770021434D /* ContactInput.swift */,
 				18A2FA6119A6E7CD0021434D /* ContactDetails.swift */,
 				18A2FA5F19A6C7CD0021434D /* Contacts.swift */,
 				18A2FA5D19A6C09C0021434D /* retro_apple.png */,
@@ -220,6 +223,7 @@
 			files = (
 				18A2FA4319A6B7910021434D /* ViewController.swift in Sources */,
 				18A2FA6219A6E7CD0021434D /* ContactDetails.swift in Sources */,
+				18A2FA6419A764770021434D /* ContactInput.swift in Sources */,
 				18A2FA4119A6B7910021434D /* AppDelegate.swift in Sources */,
 				18A2FA6019A6C7CD0021434D /* Contacts.swift in Sources */,
 			);
