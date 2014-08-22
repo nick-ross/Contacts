@@ -12,6 +12,9 @@
 		18A2FA4619A6B7910021434D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A2FA4419A6B7910021434D /* Main.storyboard */; };
 		18A2FA4819A6B7910021434D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A2FA4719A6B7910021434D /* Images.xcassets */; };
 		18A2FA5419A6B7910021434D /* ContactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A2FA5319A6B7910021434D /* ContactsTests.swift */; };
+		18A2FA5E19A6C09C0021434D /* retro_apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 18A2FA5D19A6C09C0021434D /* retro_apple.png */; };
+		18A2FA6019A6C7CD0021434D /* Contacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A2FA5F19A6C7CD0021434D /* Contacts.swift */; };
+		18A2FA6219A6E7CD0021434D /* ContactDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A2FA6119A6E7CD0021434D /* ContactDetails.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,9 @@
 		18A2FA4D19A6B7910021434D /* ContactsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContactsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A2FA5219A6B7910021434D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18A2FA5319A6B7910021434D /* ContactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsTests.swift; sourceTree = "<group>"; };
+		18A2FA5D19A6C09C0021434D /* retro_apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = retro_apple.png; sourceTree = "<group>"; };
+		18A2FA5F19A6C7CD0021434D /* Contacts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contacts.swift; sourceTree = "<group>"; };
+		18A2FA6119A6E7CD0021434D /* ContactDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactDetails.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +84,9 @@
 				18A2FA4019A6B7910021434D /* AppDelegate.swift */,
 				18A2FA4219A6B7910021434D /* ViewController.swift */,
 				18A2FA4419A6B7910021434D /* Main.storyboard */,
+				18A2FA6119A6E7CD0021434D /* ContactDetails.swift */,
+				18A2FA5F19A6C7CD0021434D /* Contacts.swift */,
+				18A2FA5D19A6C09C0021434D /* retro_apple.png */,
 				18A2FA4719A6B7910021434D /* Images.xcassets */,
 				18A2FA3E19A6B7910021434D /* Supporting Files */,
 			);
@@ -190,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18A2FA4619A6B7910021434D /* Main.storyboard in Resources */,
+				18A2FA5E19A6C09C0021434D /* retro_apple.png in Resources */,
 				18A2FA4819A6B7910021434D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -209,7 +219,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				18A2FA4319A6B7910021434D /* ViewController.swift in Sources */,
+				18A2FA6219A6E7CD0021434D /* ContactDetails.swift in Sources */,
 				18A2FA4119A6B7910021434D /* AppDelegate.swift in Sources */,
+				18A2FA6019A6C7CD0021434D /* Contacts.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
